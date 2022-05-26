@@ -1,0 +1,2 @@
+model_checkpoint_path: "ml-tag_16"
+all_model_checkpoint_paths: "ml-tag_16"

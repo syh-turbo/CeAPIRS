@@ -1,0 +1,2 @@
+model_checkpoint_path: "web9_16"
+all_model_checkpoint_paths: "web9_16"
